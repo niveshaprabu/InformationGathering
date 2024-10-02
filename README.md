@@ -61,7 +61,7 @@ Footprinting is a part of the reconnaissance process which is used for gathering
 ![Screenshot 2024-10-02 163515](https://github.com/user-attachments/assets/713cb287-a272-40e5-8825-dd42a9843cb9)
 
 
-## ICMP traceroute:
+# ICMP traceroute:
 ![Screenshot 2024-10-02 160915](https://github.com/user-attachments/assets/87dff0db-763a-4758-979f-44f8bcc5fb80)
 
 
